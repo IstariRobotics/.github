@@ -1,5 +1,5 @@
 ## Istari Robotics
-Hyperscaling Egocentric Datasets for Embodied AI
+
 At Istari Robotics, we believe the next leap in intelligence will be embodied.
 
 Our mission is to power the future of robotics by making high-fidelity, multimodal egocentric data accessible to every researcher, developer, and company building intelligent machines.
